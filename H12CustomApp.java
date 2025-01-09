@@ -4,11 +4,6 @@
 // Course:          CS200, Fall, 2023
 //
 // Author:          Nicholas Wray
-// Email:           nwray2@wisc.edu
-// Lecturer's Name: Jim
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-// No help given or received.
 ///////////////////////////////// REFLECTION ///////////////////////////////////
 //
 // 1. This program is designed to process data from a file, then calculate the average temperature and generate
