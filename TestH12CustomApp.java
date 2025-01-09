@@ -4,20 +4,7 @@
 // Course:          CS200, Fall, 2023
 //
 // Author:          Nick
-// Email:           nwray2@wisc.edu
-// Lecturer's Name: Jim
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-//
-// Source or Recipient; Description
-// Examples (REMOVE in your code - unless Jane Doe helped you and you helped John Doe accordingly):
-// Jane Doe; helped me with for loop in reverse method
-// https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html; 
-//         counting for loop
-// John Doe; I helped with switch statement in main method.
-// ChatGPT; Helped with debugging an off-by-one error with a loop.
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
